@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercpdate",
+        "uuid": 1766572,
+        "checksum": "apkzng"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
